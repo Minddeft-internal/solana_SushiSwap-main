@@ -1,0 +1,22 @@
+{
+	"name": "Minddeft",
+	"symbol": "MD",
+	"description": "Minddeft blockchain",
+	"image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/vxgrkfjtb4q9sqjqvztt",
+	"animation_url": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+	"attributes": [
+	],
+	"properties": {
+		"category": "audio",
+		"files": [
+			{
+				"uri": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/vxgrkfjtb4q9sqjqvztt",
+				"type": "image/jpeg"
+			},
+			{
+				"uri": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+				"type": "audio/mpeg"
+			}
+		]
+	}
+}
